@@ -2,8 +2,9 @@
 A Blender Python script for capturing a 3D scene as a High Resolution Display Map compatible with the Meta Worlds Skydome Importer.
 
 ## Instructions:
-1. Download the [Blender Python Script](https://raw.githubusercontent.com/tellous/MetaWorldsSkydomeCapture/refs/heads/main/SkydomeCapture.py).
-1. Run in the Scripting tab in Blender 4.
+1. Copy the [Blender Python Script](https://raw.githubusercontent.com/tellous/MetaWorldsSkydomeCapture/refs/heads/main/SkydomeCapture.py).
+1. In Blender 4, paste the script into the Scripting tab.
+1. Press the Play button to run the script.
 1. Please allow up to 5 minutes for the render to complete.
 1. The final image (horizontal_strip.png) will be located in the skydome_output folder wherever you saved your .blend file.
 
