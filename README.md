@@ -16,6 +16,6 @@ Ready for more technical depth?
 Go read the [manual](https://communityforums.atmeta.com/t5/Community-Resources/New-Resource-Meta-Horizon-Creator-Manual-Technical-Reference/m-p/1295126)!
 
 Also, join the [VRinReview Discord](https://discord.com/invite/Kw4JbyNb9A),
-and leave me some Kudos on my [forum post](https://communityforums.atmeta.com/t5/Community-Resources/Capture-a-Skydome-display-map-of-a-3D-scene-in-Blender/td-p/1318966)!
+and leave me some Kudos on my [forum post](https://communityforums.atmeta.com/t5/Community-Resources/Capture-a-Skydome-display-map-of-a-3D-scene-in-Blender/m-p/1318966#M315)!
 
 Plz and thank you!
